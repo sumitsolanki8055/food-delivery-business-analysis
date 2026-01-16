@@ -92,40 +92,6 @@ Swiggy-Business-Analytics/
 
 ---
 
-
-## 📷 Dashboard Previews
-
-### 1️⃣ Executive Overview
-![Executive Overview](dashboards/executive_overview.png)
-
----
-
-### 2️⃣ Time-Based Analysis
-![Time-Based Analysis](dashboards/time_based_analysis.png)
-
----
-
-### 3️⃣ Location Performance
-![Location Performance](dashboards/location_intelligence.png)
-
----
-
-### 4️⃣ Restaurant Performance
-![Restaurant Performance](dashboards/restaurant_performance.png)
-
----
-
-### 5️⃣ Customer Spending Analysis
-![Customer Spending](dashboards/customer_spending.png)
-
----
-
-### 6️⃣ Rating Analysis
-![Rating Analysis](dashboards/rating_analysis.png)
-
-
----
-
 ## 🛠 Tools & Technologies
 - **Tableau Desktop**
 - **Microsoft Excel / CSV**
@@ -143,7 +109,35 @@ Swiggy-Business-Analytics/
 ---
 
 ## 📷 Dashboard Previews
-(Add dashboard screenshots inside the `dashboards/` folder and link them here)
+
+### 1️⃣ Executive Overview
+![Executive Overview](dashboards/Executive_Overview.png)
+
+---
+
+### 2️⃣ Time-Based Analysis
+![Time-Based Analysis](dashboards/Time_Based_Analysis.png)
+
+---
+
+### 3️⃣ Location Performance
+![Location Performance](dashboards/Location_Performance.png)
+
+---
+
+### 4️⃣ Restaurant Performance
+![Restaurant Performance](dashboards/Restaurant_Performance.png)
+
+---
+
+### 5️⃣ Customer Spending Analysis
+![Customer Spending](dashboards/Customer_Spending.png)
+
+---
+
+### 6️⃣ Rating Analysis
+![Rating Analysis](dashboards/Rating_Analysis.png)
+
 
 ---
 
